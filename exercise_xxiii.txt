@@ -7,7 +7,7 @@ A.
 5. Yesterday my grandmother and grandfather came with the maids from town. Soon they will be in the garden to see berries, grapes, and large apples.
 
 B.
-1. "Why did you go into the forest, my daughter?" asked the farmer. "I went into the the forest," answered the daughter, "because I am a big girl; I am not afraid of little foxes."
+1. "Why did you go through the forest, my daughter?" asked the farmer. "I went through the the forest," answered the daughter, "because I am a big girl; I am not afraid of little foxes."
 2. "What did Marcus find in your school bag?" asked Julia. "He found books and a pen," answered Claudia; "since my tablets are in the tent."
 3. "The lazy boy's bed is under the stairs," said Marcus. "The teacher sent me to see the bed."
 4. "Why did the farmers give you money, Marcus? asked Quintus. "They gave me money," answered Marcus, "because I am not lazy. Yesterday they sent you into the fields, but you did not lead the horses to water."
@@ -15,12 +15,14 @@ B.
 II.
 A.
 1. Ōlim vulpēcula in hortum vēnit, ut ūvās vidēret. 
-2. Mārcus cum in herbam iacēret, saxum ad parvulam iēcit.
-3. Saxa in corbulam avī cēcidērunt, et caveam columbae albae frēgērunt. 
+2. Mārcus cum in herbā iacēret, saxum in puellam parvam iēcit.
+3. Saxa in corbulam avī meī cecidērunt, et caveam columbārum albārum frēgērunt. 
 4. "Cum in silvām vēnissēs, quid invēnīstī, mī fīlī?"
-5. Lupum validum vīdī, et Quitus in umbrā nautam dēfessum invēnit. 
+5. Lupum validum vīdī, et Quintus in umbrā nautam dēfessum invēnit. 
 
 B. 
-1. "Magister ex ludō mīsit," inquit Claudia ad Marcellam. "Puerī mox in agrīs erunt," inquit Marcella; "tum in cymbā sedēbimus et in aquā conchās vidēbimus." 
-2. "Vulpēcula lupum timuit," inquit Julia. "Sed ursa lupum terruit; itaque vulpēcula iam in caveam iit, ut in umbrā iacet." 
-3. "
+1. "Magister nōs ē ludō mīsit," inquit Claudia Mārcellae. "Puerī mox in agrīs erunt," inquit Mārcella; "tum in cymbā sedēbimus et in aquā conchās vidēbimus." 
+2. "Vulpēcula lupum timuit," inquit Julia. "Sed ursa lupum terruit; itaque vulpēcula iam in spēluncam iit, ut in umbrā iacēret."
+3. "Vōs hodiē monuī, puerī," inquit magister, "sed māla et bācās mihi nōn dēdistis." "Bācās in lutum iēcīmus," inquit Mārcus, "et māla in aquā sunt."
+4. "Ubi sunt columbae?" inquit Mārcella. "Columba mea in umerō fīliae agricolae," inquit Iulia; "fīlius improbus nautae tuam occīdit." 
+
