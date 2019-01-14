@@ -26,4 +26,5 @@ A.
 B.
 1. "Puer miser ex silvīs herī vēnit," inquit Iūlia, "ut corbulās bacīs complēret. Nōs māla et ūvās dēdimus."
 2. "Quid nauta tibi dedīt, Mārce?" inquit Iūlia. "Cum lupī ē latebrīs ērumperent," inquit Mārcus, "nauta mihi sagittās dēdit, et ursam et lupum sagittīs occīdo."
-3. 
+3. "Cum in umbrā lateam, ut vulpēculam terream," inquit Claudia, "capsa mea humī cadet. Iam eam nōn videō."
+4. "Magister coquum pigrum ad tabernam mīsit," inquit Marcella; "et cum is in sellā ibi sedēret, Marcus in culinam cum Quintō cucurrit. Ibi puerī malī cēnam magistrī sūmpsērunt et paternās frēgērunt."
