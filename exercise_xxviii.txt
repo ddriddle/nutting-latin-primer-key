@@ -25,3 +25,5 @@ A.
 
 B.
 1. "Puer miser ex silvīs herī vēnit," inquit Iūlia, "ut corbulās bacīs complēret. Nōs māla et ūvās dēdimus."
+2. "Quid nauta tibi dedīt, Mārce?" inquit Iūlia. "Cum lupī ē latebrīs ērumperent," inquit Mārcus, "nauta mihi sagittās dēdit, et ursam et lupum sagittīs occīdo."
+3. 
